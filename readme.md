@@ -1,7 +1,7 @@
-Vanilla JS
-HTML
-CSS
-API
+Vanilla JS <br>
+HTML <br>
+CSS <br>
+API <br>
 
 For API:https://openweathermap.org/
 
