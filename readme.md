@@ -1,4 +1,4 @@
-Check the website : https://weather-app-sigma-sooty.vercel.app/
+Check the website : https://weather-fr73o52bh-mikpilipenko17.vercel.app/
 
 Vanilla JS <br>
 HTML <br>
